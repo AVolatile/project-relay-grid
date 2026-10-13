@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.DS_Store
+.env*
+.openai/cache/
+.openai/local/
+portfolio-assets/exports/
